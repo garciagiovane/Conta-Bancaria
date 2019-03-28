@@ -8,3 +8,4 @@ Para pagar a mensalidade é necessário que a conta esteja aberta e que tenha sa
 para CC (conta corrente) precisa ter saldo maior ou igual a 12 e para CP (conta poupança) o saldo precisa ser 
 maior ou igual a 150.
 Me encontre no LinkedIn -> https://www.linkedin.com/in/giovanegarcia/
+GitHub https://github.com/garciagiovane/Conta-Bancaria.git
